@@ -1,0 +1,2 @@
+# RARS-Real-Time-Automobile-Registration-System-Python3
+It is an application written in Python3 with usage of oracle’s open-source remote MySQL’s database systems. The command-line interface allows you to login and access the various modules of system like New Vehicle Registration, Auto Sale Transaction Records, Driver License Registration, Temporary Number Generation, Search Engine and Admin Login
